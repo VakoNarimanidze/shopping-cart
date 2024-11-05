@@ -21,7 +21,6 @@ const Sizes = memo(({ selectedSizes, onSizeToggle }) => {
           </button>
         ))}
       </div>
-      <p className="company-name">Re:Educate</p>
     </>
   );
 });
